@@ -16,6 +16,7 @@
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/225px-Unofficial_JavaScript_logo_2.svg.png" alt="js" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://kerteriz.net/content/images/2021/10/react.png" alt="react" width="50"/> </a>
+<a href="#" target="_blank"> <img src="https://redux-toolkit.js.org/img/redux.svg" alt="react-redux-toolkit" width="50"/> </a>
 
   </p>
  
