@@ -6,11 +6,7 @@
   
 </p>
 
-# Hi guys! My name is Emre. Welcome to my GitHub.. 💻
-
 # [MY WEBSITE](https://github.com/bemrekalkan)
-
-## I'm a Frontend Developer 👋
 
 ## 🚀 Skills
 
@@ -50,10 +46,10 @@
   <a href="#" target="_blank"> <img src="https://www.webtekno.com/images/editor/default/0001/87/17a9aef3004a2b9dca93a87827ad484ba5d70e7e.jpeg" alt="slack" height="45"/> </a> 
   <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
   
-  
+<!--   
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="60"/> </a> 
   
-</p>
+</p> -->
 
 ## TO DO :
 
