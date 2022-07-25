@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+guys+!+My+name+is+Emre;I'm+a+Frontend+Developer;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://www.pinterest.com/pin/709950328737210816/
-" alt="Coder" width="500" height="400">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
 </p>
 
 # Hi guys! My name is Emre. Welcome to my GitHub.. 💻
