@@ -44,6 +44,8 @@
   
   
   <a href="#" target="_blank"> <img src="https://www.webtekno.com/images/editor/default/0001/87/17a9aef3004a2b9dca93a87827ad484ba5d70e7e.jpeg" alt="slack" height="45"/> </a> 
+    <a href="#" target="_blank"> <img src="https://assets.asana.biz/m/6c9fe58f530550c1/original/trademark-logo-lockup-vertical-1x.png" alt="asana" height="45"/> </a>
+    <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.png" alt="trello" height="45"/> </a>
   <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
   
 <!--   
