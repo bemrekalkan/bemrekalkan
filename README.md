@@ -6,7 +6,7 @@
   
 </p>
 
-# [MY WEBSITE](https://github.com/bemrekalkan)
+# [MY WEBSITE](https://github.com/bayramemrekalkan)
 
 ## 🚀 Skills
 
@@ -48,10 +48,10 @@
     <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.png" alt="trello" height="45"/> </a>
   <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
   
-  
+<!--   
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="60"/> </a> 
   
-</p>
+</p> -->
 
 ## TO DO :
 
