@@ -24,7 +24,7 @@
 
   </p>
  
-<!--  
+ 
 ## BACKEND :
 <p>
   <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
@@ -35,7 +35,7 @@
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
 
  </p>
-  -->
+ 
  ## TOOLS :
  <p>
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
